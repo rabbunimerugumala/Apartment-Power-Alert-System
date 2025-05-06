@@ -83,3 +83,8 @@ This ensures **fuel conservation**, reduces generator wear-and-tear, and improve
 
 V: 230.4V
 I:  0.21A
+
+
+## 🚀 Full Source Code
+
+The full source code for the project is available in this repo: [apartment_power_alert_system.ino](./apartment_power_alert_system.ino)
