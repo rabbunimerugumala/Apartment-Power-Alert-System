@@ -88,3 +88,44 @@ I:  0.21A
 ## 🚀 Full Source Code
 
 The full source code for the project is available in this repo: [apartment_power_alert_system.ino](./apartment_power_alert_system.ino)
+
+---
+
+## 🙏 Acknowledgements
+
+This project wouldn’t have been possible without the support and trust of these incredible mentors:
+
+- 🧠 **Dr. G.V.S.N.R.V. Prasad Sir**  
+  *Director – PG Studies, Curriculum & Teaching, and R&D*  
+  *For believing in my capabilities and allowing me to implement this system at your residence.*
+
+- 👨‍🏫 **Prof. B. Dasu Sir (Dr. Dasu Butti)**  
+  *For recommending me and being a pillar of mentorship throughout this journey.*
+
+- 🎓 **Dr. K. Kalyan Raj Sir (Dr. Kalyan Raj)**  
+  *For your continuous guidance, encouragement, and unwavering support.*
+
+- 👨‍💻 **Merugumala Rabbuni (Me)**  
+  *Developer, EEE Student, and Founder of NEXTSTEP TECHNOLOGIES*  
+  *For dreaming big, building with heart, and turning vision into real-world impact.*
+
+---
+
+✝️ **All glory be to God**, my source of strength and wisdom — without whom none of this would be possible.
+
+---
+
+## 🔥 Created By
+
+**Merugumala Rabbuni**  
+*Founder – NEXTSTEP TECHNOLOGIES*  
+📧 rabbuni144@gmail.com  
+🚀 Building practical, impactful tech projects for students and society.
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.  
+Feel free to use, modify, and build upon it!
+
