@@ -99,13 +99,13 @@ This project wouldn’t have been possible without the support and trust of thes
   *Director – PG Studies, Curriculum & Teaching, and R&D*  
   *For believing in my capabilities and allowing me to implement this system at your residence.*
 
-- 👨‍🏫 **Prof. B. Dasu Sir (Dr. Dasu Butti)**  
+- 👨‍🏫 **Prof. B. Dasu Sir**  
   *For recommending me and being a pillar of mentorship throughout this journey.*
 
-- 🎓 **Dr. K. Kalyan Raj Sir (Dr. Kalyan Raj)**  
+- 🎓 **Dr. K. Kalyan Raj Sir**  
   *For your continuous guidance, encouragement, and unwavering support.*
 
-- 👨‍💻 **Merugumala Rabbuni (Me)**  
+- 👨‍💻 **Merugumala Rabbuni (ME)**  
   *Developer, EEE Student, and Founder of NEXTSTEP TECHNOLOGIES*  
   *For dreaming big, building with heart, and turning vision into real-world impact.*
 
