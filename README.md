@@ -51,7 +51,7 @@ This ensures **fuel conservation**, reduces generator wear-and-tear, and improve
 
 > **Main Power IN ➜ Voltage Sensor ➜ Arduino**
 >
-> **Current Sensor (optional) ➜ Arduino**
+> **Current Sensor ➜ Arduino**
 >
 > **Arduino ➜ LCD + LEDs + Buzzer + Button**
 
