@@ -118,7 +118,6 @@ This project wouldn’t have been possible without the support and trust of thes
 ## 🔥 Created By
 
 **Merugumala Rabbuni**  
-*Founder – NEXTSTEP TECHNOLOGIES*  
 📧 rabbuni144@gmail.com  
 🚀 Building practical, impactful tech projects for students and society.
 
