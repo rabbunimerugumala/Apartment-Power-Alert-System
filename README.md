@@ -18,6 +18,8 @@ This system provides a **visual, audible, and real-time alert** for both situati
 
 This ensures **fuel conservation**, reduces generator wear-and-tear, and improves overall **power management** in the apartment.
 
+<img width="2720" height="1920" alt="power_monitor_alarm_block_diagram" src="https://github.com/user-attachments/assets/bebdb42d-2a00-4493-a140-c5e6be79ff65" />
+
 
 ## 🚀 Features
 
